@@ -1,3 +1,4 @@
 import Navbar from './Navbar';
+import Newsletter from './Newsletter';
 
-export { Navbar };
+export { Navbar, Newsletter };
