@@ -1,12 +1,9 @@
-import Head from 'next/head';
-import { Navbar } from '@/components';
+import { Navbar, Newsletter } from '@/components';
 
 const Home = () => (
 	<div>
-		<Head>
-			<title>DAPP KIT</title>
-		</Head>
 		<Navbar />
+		<Newsletter />
 	</div>
 );
 

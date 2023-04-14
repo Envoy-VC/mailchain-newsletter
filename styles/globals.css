@@ -19,3 +19,8 @@
 	mask-position: 100%;
 	transition: mask-position 1s ease, -webkit-mask-position 1s ease;
 }
+
+.semi-transparent-btn {
+	background-color: rgba(165, 139, 255, 1);
+	border: 1px solid rgba(111, 76, 255, 0.25);
+}
