@@ -13,7 +13,7 @@ export default async function handler(req, res) {
 
 		// Send Mail
 		const { data, error } = await mailchain.sendMail({
-			from: `0xBF4979305B43B0eB5Bb6a5C67ffB89408803d3e1@ethereum.mailchain.com`,
+			from: `envoy1084.lens@lens.mailchain.com`,
 			to: [`${address}@ethereum.mailchain.com`],
 			subject: 'Welcome to WAGMI Weekly!',
 			content: {
