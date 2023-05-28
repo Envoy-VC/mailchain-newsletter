@@ -16,6 +16,8 @@ Mailchain Newsletter is a web3 newsletter service lets users to subscribe to you
 
 You can find the video demo [here](https://www.loom.com/share/52e7d302ee554f1f9f33e3f7b99fd814):
 
+https://github.com/Envoy-VC/mailchain-newsletter/assets/65389981/89607579-85c8-4511-a633-e0b47112b759
+
 ---
 
 ## Getting Started 🚀
